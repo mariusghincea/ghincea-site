@@ -8,7 +8,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: native
-  font_size: M
+  font_size: L
 
 header:
   navbar:
@@ -22,7 +22,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Marius Ghincea. Built with [Hugo](https://gohugo.io/) and [HugoBlox](https://hugoblox.com/).'
+    notice: '© {year} Marius Ghincea'
 
 locale:
   date_format: 'Jan 2, 2006'

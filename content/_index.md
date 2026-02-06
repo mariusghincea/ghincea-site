@@ -5,7 +5,7 @@ type: landing
 
 design:
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['0', '0', '0', '0']
 
 sections:
   - block: resume-biography-3
@@ -29,12 +29,14 @@ sections:
         I address these questions through a combination of qualitative Bayesian reasoning, process tracing, and comparative case analysis. I am currently supported by an **SNSF Ambizione Grant Fellowship** for the project *Great Power Competition and European Integration*.
 
         **Current projects include:**
-        - How crisis windows produce reversible delegation in EU foreign policy (R&R at JEPP)
-        - Triangulated capture: how geopolitical competition reshapes EU enlargement conditionality (R&R at EJPR)
+        - How crisis windows produce reversible delegation in EU foreign policy (R&R at *JEPP*)
+        - Triangulated capture: how geopolitical competition reshapes EU enlargement conditionality (R&R at *EJPR*)
         - Domestic determinants of military aid disclosure in France and Germany (under review)
         - A Cambridge Element on the EU's response to the Russo-Ukrainian War (with Invernizzi, Nasr & Schimmelfennig)
     design:
       columns: '1'
+      spacing:
+        padding: ['3rem', '0', '3rem', '0']
 
   - block: collection
     id: publications
@@ -50,6 +52,8 @@ sections:
     design:
       view: citation
       columns: '1'
+      spacing:
+        padding: ['3rem', '0', '3rem', '0']
 
   - block: markdown
     id: media-highlight
@@ -61,7 +65,9 @@ sections:
 
         I also write the Substack newsletter [**Priors & Posteriors**](https://priorsandposteriors.substack.com/), focused on rigorous analysis of European politics and security.
 
-        [→ Full media page](/media/)
+        [View full media page](/media/)
     design:
       columns: '1'
+      spacing:
+        padding: ['3rem', '0', '3rem', '0']
 ---

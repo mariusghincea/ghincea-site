@@ -18,11 +18,11 @@ header:
     show_search: false
     show_theme_chooser: true
     logo:
-      text: "Marius Ghincea"
+      text: "MG"
 
 footer:
   copyright:
-    notice: '© {year} Marius Ghincea'
+    notice: '© {year} Marius Ghincea. All rights reserved.'
 
 locale:
   date_format: 'Jan 2, 2006'

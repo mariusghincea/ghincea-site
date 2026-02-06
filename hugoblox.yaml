@@ -1,10 +1,6 @@
 # HugoBlox configuration
-# Docs: https://docs.hugoblox.com/
-
-# HugoBlox version
 version: "2"
 
-# Appearance
 appearance:
   mode: system
-  color: '#2d4a5e'
+  color: '#6c63ff'

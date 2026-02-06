@@ -1,0 +1,14 @@
+{
+  "name": "ghincea-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --gc --minify"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "@tailwindcss/typography": "^0.5.19",
+    "tailwindcss": "^4.1.18"
+  }
+}

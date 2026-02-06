@@ -1,0 +1,24 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Installers/binaries (not part of the project)
+*.pkg
+*.deb
+*.tar.gz
+*.zip
+go/
